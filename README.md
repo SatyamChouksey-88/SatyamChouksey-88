@@ -7,7 +7,7 @@ I build maintainable test automation for web and API systems: Playwright + TypeS
 
 | Project | What it proves | Proof |
 |---|---|---|
-| [playwright-qa-framework](https://github.com/SatyamChouksey-88/playwright-qa-framework) | Playwright/TS framework: POM, fixtures, multi-env, multi-browser CI | ![CI](https://img.shields.io/badge/CI-pending-lightgrey) · [Live report](link-tbd) |
+| [playwright-qa-framework](https://github.com/SatyamChouksey-88/playwright-qa-framework) | Playwright/TS framework: POM, fixtures, multi-env, multi-browser CI | [![CI](https://github.com/SatyamChouksey-88/playwright-qa-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/SatyamChouksey-88/playwright-qa-framework/actions/workflows/playwright.yml) · [Live report](https://satyamchouksey-88.github.io/playwright-qa-framework/) |
 | [api-automation-restassured](https://github.com/SatyamChouksey-88/api-automation-restassured) | Java 17 + REST Assured + TestNG, schema validation, data-driven | ![CI](https://img.shields.io/badge/CI-pending-lightgrey) · [Allure report](link-tbd) |
 | [newvision-it-admin](https://github.com/SatyamChouksey-88/newvision-it-admin) | Full-stack app with Playwright E2E + accessibility checks in CI | ![CI](https://img.shields.io/badge/CI-pending-lightgrey) |
 | [performance-jmeter-suite](https://github.com/SatyamChouksey-88/performance-jmeter-suite) | JMeter load/stress plans, CLI runs in CI, HTML dashboard | [Dashboard](link-tbd) |
