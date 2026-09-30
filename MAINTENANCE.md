@@ -6,7 +6,7 @@
 - [ ] Every **Live report** URL returns HTTP 200 (or CI link for repos without Pages).
 - [ ] No links to private, archived, or employer-named repos.
 - [ ] README stays under 60 lines; contact is LinkedIn only (no email or phone).
-- [ ] Weekly link-check workflow is green on `main`.
+- [ ] Weekly link-check workflow is green on `main` (LinkedIn may return HTTP 999 to bots; workflow accepts 200/429/999).
 
 ## UI-side (GitHub profile settings — you only)
 

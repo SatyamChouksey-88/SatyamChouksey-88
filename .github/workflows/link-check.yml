@@ -25,6 +25,6 @@ jobs:
       - name: Check links in profile docs
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress --accept 200,429 README.md MAINTENANCE.md
+          args: --verbose --no-progress --accept 200,429,999 README.md MAINTENANCE.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
