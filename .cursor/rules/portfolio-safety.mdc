@@ -1,0 +1,13 @@
+---
+description: Profile README safety rules
+globs: ""
+alwaysApply: true
+---
+
+# Profile repo safety
+
+- LinkedIn only for contact: https://www.linkedin.com/in/satyam-chouksey-322a8126a
+- No email, phone, address, or CV files in this repo.
+- No employer or client names; describe work generically.
+- Claims must match public portfolio repos; do not invent test counts or metrics.
+- No stats widgets, snake GIFs, or third-party image services.
