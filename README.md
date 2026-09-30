@@ -1,28 +1,33 @@
-﻿# Satyam Chouksey — QA Automation Engineer / SDET
+﻿# Hi, I'm Satyam 👋 — QA Automation Engineer → SDET
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PLACEHOLDER--LINKEDIN-0A66C2?logo=linkedin&logoColor=white)](PLACEHOLDER-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-PLACEHOLDER--EMAIL-D14836?logo=gmail&logoColor=white)](mailto:PLACEHOLDER-EMAIL)
+**3+ years in test automation for banking (FX & Rates) · Playwright · Java · REST Assured · JMeter · CI/CD · Bhopal, India · Open to SDET roles (remote/hybrid)**
 
-**QA Automation Engineer transitioning to SDET | Playwright · TypeScript · Java · REST Assured · JMeter | CI/CD | Bhopal, India — open to SDET roles (remote/hybrid)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-chouksey-322a8126a)
 
-## About
+## What I do
 
-I work on QA automation for web and API systems in enterprise delivery — functional, regression, and release validation with Playwright and CI pipelines. Outside work I'm building public portfolio suites that go deeper on SDET skills: Java + REST Assured API automation, JMeter performance plans, and multi-pipeline CI/CD design so interviewers can review real code and green reports.
+- Build UI, API, and performance test suites that run in CI and publish readable reports.
+- At work: functional, regression, and release validation for FX & Rates systems in a large banking program (no client code or data is shared here).
+- Here: public, reproducible portfolio suites against demo apps and mock APIs — every flagship repo has green CI and a live report.
 
 ## Featured work
 
-| Repo | What it proves | Stack |
-|---|---|---|
-| [playwright-qa-framework](https://github.com/SatyamChouksey-88/playwright-qa-framework) | Playwright/TS framework: POM, multi-browser, CI, live report | Playwright, TypeScript, GitHub Actions |
-| [api-automation-restassured](https://github.com/SatyamChouksey-88/api-automation-restassured) | Java + REST Assured API suite: schema validation, data-driven, CI | Java, REST Assured, TestNG, Allure |
-| [newvision-it-admin](https://github.com/SatyamChouksey-88/newvision-it-admin) | Full-stack app with Playwright E2E + CI gating merges | Playwright, TypeScript, full-stack |
-| [performance-jmeter-suite](https://github.com/SatyamChouksey-88/performance-jmeter-suite) | JMeter load/stress plans, CI-run, HTML dashboard | JMeter, GitHub Actions |
+| Repo | What it proves | Live report |
+|------|----------------|-------------|
+| [playwright-qa-framework](https://github.com/SatyamChouksey-88/playwright-qa-framework) | Playwright + TS: POM, fixtures, multi-browser, sharded CI | [HTML report](https://satyamchouksey-88.github.io/playwright-qa-framework/) |
+| [api-automation-restassured](https://github.com/SatyamChouksey-88/api-automation-restassured) | Java 17 + REST Assured + TestNG: schema contracts, data-driven, Allure | [Allure](https://satyamchouksey-88.github.io/api-automation-restassured/) |
+| [performance-jmeter-suite](https://github.com/SatyamChouksey-88/performance-jmeter-suite) | JMeter load/stress/spike in CI with HTML dashboards | [Dashboards](https://satyamchouksey-88.github.io/performance-jmeter-suite/) |
+| [trashbot](https://github.com/SatyamChouksey-88/trashbot) | ESP32-S3 robot + MCP agent; sim, native tests, Playwright on mock robot | [CI](https://github.com/SatyamChouksey-88/trashbot/actions) |
 
-## Stack
+## Toolbox
 
-**Automation:** Playwright, Selenium · **API:** REST Assured · **Performance:** JMeter, LoadRunner  
-**Languages:** TypeScript, Java, JavaScript, SQL · **CI/CD:** GitHub Actions, Azure DevOps, Jenkins
+**UI:** Playwright, Selenium · **API:** REST Assured, Postman · **Performance:** JMeter, LoadRunner  
+**Languages:** TypeScript, Java, JavaScript, SQL · **CI/CD:** GitHub Actions, Azure DevOps, Jenkins · **AI-assisted dev:** Cursor
+
+## Currently
+
+Learning: visual regression + accessibility testing in Playwright · contract testing for financial APIs
 
 ## Contact
 
-LinkedIn: PLACEHOLDER-LINKEDIN · Email: PLACEHOLDER-EMAIL
+Best way to reach me: [LinkedIn](https://www.linkedin.com/in/satyam-chouksey-322a8126a).

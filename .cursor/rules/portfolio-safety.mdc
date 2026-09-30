@@ -1,0 +1,11 @@
+---
+description: Portfolio safety and quality rules
+globs: ""
+alwaysApply: true
+---
+
+# Portfolio safety
+
+- No secrets, CV files, phone numbers, or personal email in this public profile repo.
+- No links to deleted or private repos; verify every URL before merge.
+- No employer/client confidential names in showcase copy beyond what is already on your public LinkedIn.
